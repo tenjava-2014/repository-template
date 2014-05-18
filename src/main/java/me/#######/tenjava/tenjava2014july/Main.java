@@ -9,7 +9,7 @@ public class Main extends JavaPlugin {
 	
 	public void onEnable(){
 		Logger l = Bukkit.getLogger();
-		l.info("TenJava 2014 July Entry by Vilsol for theme ######!");
+		l.info("TenJava 2014 July Entry by ##### for theme ######!");
 	}
 	
 }
