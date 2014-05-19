@@ -1,3 +1,3 @@
-name: TenJava2014July.######
-main: me.######.tenjava.tenjava2014july.Main
-version: 1.0
+name: TenJava2014July.XXXXXXXX
+main: XXXXXXXX.tenjava.tenjava2014july.Main
+version: '${project.version}'
