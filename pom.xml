@@ -35,9 +35,11 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.1</version>
 				<configuration>
-					<source>1.7</source>
-					<target>1.7</target>
-					<complianceLevel>1.7</complianceLevel>
+					<!-- Per the rules at http://git.io/lAJgzQ you're free to change
+					     '1.6' to '1.7' or '1.8' if you wish. This will not impact your score. -->
+					<source>1.6</source>
+					<target>1.6</target>
+					<complianceLevel>1.6</complianceLevel>
 					<encoding>UTF-8</encoding>
 				</configuration>
 			</plugin>
@@ -48,7 +50,7 @@
 				<filtering>true</filtering>
 				<directory>${basedir}/src/main/resources</directory>
 				<includes>
-					<include>*.yml</include>
+					<include>*</include>
 				</includes>
 			</resource>
 			<resource>
