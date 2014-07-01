@@ -8,7 +8,9 @@ This is a submission for the 2014 ten.java contest.
 - __Theme:__ {{theme}}
 - __Time:__ {{time}}
 - __MC Version:__ 1.7.9 (latest Bukkit beta)
-- __Stream URL:__ <!-- put stream URL here -->
+- __Stream URL:__ 
+
+<!-- put stream URL above -->
 
 ---------------------------------------
 
