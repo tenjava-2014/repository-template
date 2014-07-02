@@ -4,8 +4,8 @@
 	<groupId>com.tenjava.entries</groupId> <!-- you're welcome to change this -->
 	<artifactId>{{repo_name}}</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>TenJava 2014 July</name>
-	<description>Contest entry for TenJava 2014 July</description>
+	<name>ten.java 2014 July</name>
+	<description>Contest entry for ten.java 2014 July</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -36,8 +36,8 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.1</version>
 				<configuration>
-					<!-- Per the rules at http://git.io/lAJgzQ you're free to change
-					     '1.6' to '1.7' or '1.8' if you wish. This will not impact your score. -->
+					<!-- Per the rules at http://git.io/lAJgzQ, you're free to change
+					     "1.6" to "1.7" or "1.8" if you wish. This will not impact your score. -->
 					<source>1.6</source>
 					<target>1.6</target>
 					<complianceLevel>1.6</complianceLevel>
