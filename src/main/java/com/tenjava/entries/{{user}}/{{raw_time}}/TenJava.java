@@ -1,4 +1,4 @@
-package com.tenjava.entries.{{user}}.{{raw_time}};
+package com.tenjava.entries.{{sanitized_user}}.{{raw_time}};
 
 import org.bukkit.plugin.java.JavaPlugin;
 
