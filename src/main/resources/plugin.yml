@@ -1,3 +1,3 @@
-name: TenJava2014July.XXXXXXXX
-main: XXXXXXXX.tenjava.tenjava2014july.TenJava
+name: {{repo_name}}
+main: com.tenjava.entries.{{user}}.{{raw_time}}.TenJava
 version: '${project.version}'

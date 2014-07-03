@@ -1,4 +1,4 @@
-package XXXXXXXX.tenjava.tenjava2014july;
+package com.tenjava.entries.{{user}}.{{raw_time}};
 
 import org.bukkit.plugin.java.JavaPlugin;
 
