@@ -40,7 +40,6 @@
 					     "1.6" to "1.7" or "1.8" if you wish. This will not impact your score. -->
 					<source>1.6</source>
 					<target>1.6</target>
-					<complianceLevel>1.6</complianceLevel>
 					<encoding>UTF-8</encoding>
 				</configuration>
 			</plugin>
