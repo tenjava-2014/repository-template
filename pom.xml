@@ -52,6 +52,7 @@
 					<include>*</include>
 				</includes>
 			</resource>
+			<!-- Uncomment to include files (example is LICENSE file) from the project root
 			<resource>
 				<targetPath>.</targetPath>
 				<directory>${basedir}</directory>
@@ -59,6 +60,7 @@
 					<include>LICENSE</include>
 				</includes>
 			</resource>
+			-->
 		</resources>
 	</build>
 </project>
